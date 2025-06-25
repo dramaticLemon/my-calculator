@@ -14,4 +14,9 @@ public class TestingCalculator{
         char result = Calculator.getOperation(scanner);
         assertEquals('+', result);
     }
+
+    @Test
+    public void vrongOperation() {
+        
+    }
 }

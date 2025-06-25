@@ -62,6 +62,12 @@ public class Calculator {
         }
     }
 
+    
+    /**
+     * get operators
+     * @param scanner
+     * @return
+     */
     public static char getOperation(Scanner scanner) {
         while (true) {
             System.out.print("Enter operation (+, -, *, /): ");
@@ -74,7 +80,7 @@ public class Calculator {
                     System.out.println("Invalid operation. Try again.");
                 }
             } else {
-                System.out.println("Please enter a single character operation.");
+                System.out.println("Please enter a single character operation. ");
             }
         }
     }
