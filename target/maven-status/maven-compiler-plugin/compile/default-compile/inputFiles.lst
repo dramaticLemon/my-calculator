@@ -1,2 +1,9 @@
-/Users/plarium/Develop/Calculator/src/main/java/com/dch/Calculator.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/strategies/CalculateStrategies.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/strategies/Divided.java
 /Users/plarium/Develop/Calculator/src/main/java/com/dch/Main.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/strategies/Multiplyed.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/view/ConsoleView.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/ExpressionParser.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/controller/CalculationController.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/strategies/Minused.java
+/Users/plarium/Develop/Calculator/src/main/java/com/dch/model/strategies/Added.java
